@@ -3,7 +3,7 @@
 A response to 
 [this reddit thread](https://www.reddit.com/r/javascript/comments/lg80p2/nodejs_14_is_over_20x_faster_than_python38_for/gmq2s0b/)
 about node being faster than python. Go got thrown in the pot, as well. I
-thought this was not exactly a far comparison as the strength of go is the
+thought this was not exactly a fair comparison as the strength of go is the
 ability to *easily* add concurrency. So I wrote a little thing to compare a bare
 recursive version of fibonacci in go to a concurrent version.
 
